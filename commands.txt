@@ -1,0 +1,7 @@
+1)git init
+2)dir= to get the list of folders inside 
+3)dir /a=show me hidden files
+4)type nul >filename.txt create a new empty file
+5)git status=know about the changes in the project
+6)git add filename.txt=add the untracked files to tracked files
+7)git add .=add all the untracked to tracked files
