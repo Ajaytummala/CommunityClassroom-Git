@@ -6,3 +6,13 @@
 6)git add filename.txt=add the untracked files to tracked files
 7)git add .=add all the untracked to tracked files
 8)git commit -m "files been added"=to commit the tracked files
+9)start filename.txt=to open the file
+10)type name.txt=to display the content of the file
+11)git restore --staged filename.txt=to remove the file from staging area without discarding the changes
+12)git log=to view all the commits
+13)del filnames.txt=delete a filename
+14)git reset (commit id)=to remove all the commits above the id and throw them in the untracked status
+15)git stash=dont want to commit but save the changes 
+16)git stash pop=remove it from stash list
+17)git remote add origin (github repo link)=link the project to ur github profile
+18)git push origin master(branch name)= push the project to ur repo
